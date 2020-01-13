@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import LandingPage from './components/LandingPage'
-import LandingPage2 from './components/LandingPage2'
 
 
 
@@ -9,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <LandingPage />
-      <LandingPage2 />
     </div>
   );
 }
